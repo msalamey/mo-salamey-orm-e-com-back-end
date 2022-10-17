@@ -7,7 +7,7 @@
 * [Links](#Links)
 
 ## Description
-To build the back end of an E-Commerce site with MySQL and Sequelize that allows the manager of an internet retail company to easily view, manage, and interact with information stored in databases. The Manger will be able to add, delete, update and view the information stored on the inventory database.    
+To build the back end of an E-Commerce site with Express.JS, MySQL, and Sequelize that allows the manager of an internet retail company to easily view, manage, and interact with information stored in a database. The Manger will be able to add, delete, update and view the information stored on the inventory database.    
 
 ## Actions Taken 
 * Utilized MySQL to connect to the database using Sequelize.  
