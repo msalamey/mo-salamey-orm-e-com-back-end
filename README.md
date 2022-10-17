@@ -19,7 +19,7 @@ To build the back end of an E-Commerce site with MySQL that allows the manager o
  
 ## Links
 
-Video Link: https://drive.google.com/file/d/13Ua39FIejDqob52Q4GTm8Uyytgs_Z0y3/view
+Video Link: https://drive.google.com/file/d/1K9bUkaXWplYb4P6rTCVbjNnXAk8CTDMY/view
 
 Github Repo Link: https://github.com/msalamey/mo-salamey-orm-e-com-back-end
 
