@@ -21,8 +21,6 @@ To build the back end of an E-Commerce site with Express.JS, MySQL, and Sequeliz
  
 ## Links
 
-***PLEASE NOTE, the video was too large to be included in the github repo. Please Reference the link below to view the video, or on campus studio.***
-
 Video Link: https://drive.google.com/file/d/1K9bUkaXWplYb4P6rTCVbjNnXAk8CTDMY/view
 
 Github Repo Link: https://github.com/msalamey/mo-salamey-orm-e-com-back-end
