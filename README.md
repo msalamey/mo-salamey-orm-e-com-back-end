@@ -16,6 +16,8 @@ To build the back end of an E-Commerce site with MySQL that allows the manager o
 * Utilized insomnia to test the routes and ensure they're behaving as expected.   
 
 ## Screen Shot
+
+![image](https://user-images.githubusercontent.com/107436206/196289049-2e202696-7084-4007-a257-6b15fe82ade6.png)
  
 ## Links
 
